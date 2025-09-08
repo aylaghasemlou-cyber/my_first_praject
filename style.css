@@ -1,0 +1,14 @@
+body {
+  direction: rtl;
+  font-family: 'vazirmatn', sans-serif;
+  background-color: rgb(52, 191, 191);
+
+}
+
+label, .form-check-label {
+  font-weight: bold;
+}
+h2{
+  font-weight: bold;
+}
+
